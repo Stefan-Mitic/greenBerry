@@ -4,9 +4,7 @@ A one-line statement programming language, complete with classes, cli and file c
 ![logo](docs/favicon.ico?raw=true "greenBerry")
 
 ## contributing countries
-🇲🇺 🇲🇾 🇸🇮 🇰🇪 🇺🇸 🇮🇳
-
-🇨🇦
+🇲🇺 🇲🇾 🇸🇮 🇰🇪 🇺🇸
 
 ## 🔗 links
 - [website](https://abdur-rahmaanj.github.io/greenBerry/)
@@ -14,7 +12,7 @@ A one-line statement programming language, complete with classes, cli and file c
 
 ## 📖 contributing guidelines
 
-Read [greenberry/theory_notes_simple.py](https://github.com/Abdur-rahmaanJ/greenBerry/blob/master/greenberry/theory_notes_simple.py)
+Read this first if you are not at ease with compiler theory : [greenberry/theory_notes_simple.py](https://github.com/Abdur-rahmaanJ/greenBerry/blob/master/greenberry/theory_notes_simple.py). Any question, shoot a mail or open an issue
 
 ## 🌄 contribution areas
 
@@ -53,12 +51,4 @@ Run `python gb_ide.py` write and run or load a *.gb* file !
 - [ ] Add more support for eval
 - [x] Add parameters to functions and classes
 - [ ] Allow non-static referencing of function and classes
-- [ ] New syntax and implementation
-- [ ] Expand use
-
-## 📧 quick contact
-
-[Abdur-Rahmaanj](https://github.com/TimThuma) : arj.python@gmail.com
-
-[TimThuma](https://github.com/TimThuma) : thumatim@gmail.com
 
